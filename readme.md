@@ -9,10 +9,15 @@ It detects common errors in C++ code and provides simple explanations and sugges
 
 ## 🚀 Features
 
-* Detects missing semicolons
-* Detects unmatched brackets
-* Detects undeclared variables
-* Beginner-friendly error explanations
+* 🔍 Analyzes C++ code line-by-line for common programming errors
+* ⚠️ Detects missing semicolons in variable declarations and statements
+* 🧩 Identifies unmatched or improperly balanced brackets using stack logic
+* 📌 Tracks variable declarations and flags undeclared variable usage
+* 💡 Provides clear explanations for each detected error
+* 🛠️ Suggests possible fixes to help users correct mistakes
+* 📊 Displays error type along with line number for easy debugging
+* 🧱 Built using Object-Oriented Programming principles (inheritance & polymorphism)
+
 
 ---
 
